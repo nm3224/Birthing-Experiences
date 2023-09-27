@@ -1,0 +1,11 @@
+- `subreddit_years_bar_graphs/` - bar graphs showing the number of posts made in each subreddit per year.
+- `Posts_per_Month_Covid_bar.png` - bar graph showing number of posts made during each month of COVID (March 2020 to June 2021).
+- `Posts_per_Year_bar.png` - bar graph showing number of posts in our corpus made in each year.
+- `Story_Length_Hist.png` - histogram showing distribution of number of words in the posts in our corpus.
+- `corpus_stats.csv` - table with statistics about our corpus:
+  - Number of stories in the corpus overall (posts with more than 500 words).
+  - Number of stories made before March 11, 2020 (pre-COVID).
+  - Number of stories made on or after March 11, 2020 (during COVID).
+  - Average number of words per story.
+  - Number of words in the longest story.
+  - Number of unique words in the corpus.

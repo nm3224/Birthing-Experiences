@@ -1,0 +1,11 @@
+Labels,Description,N-Grams,Number of Stories
+Positive,Positively framed,"[['positive'], ['less-than positive']]",927
+Negative,Negatively framed,"[['trauma', 'trigger', 'negative']]",304
+Unmedicated,Birth without epidural,"[['no epi', 'natural', 'unmedicated', 'epidural free', 'no meds', 'no pain meds'], ['unnatural']]",394
+Medicated,Birth with epidural,"[['epidural', 'epi'], ['no epi', 'epidural free']]",387
+Home,Birth takes place at home,[['home']],101
+Hospital,Birth takes place at hospital,[['hospital']],238
+First,First birth for the author,"[['ftm', 'first time', 'first pregnancy']]",25
+Second,Second birth for the author,"[['stm', 'second']]",44
+C-Section,Birth via cesarean delivery,"[['cesarian', 'section', 'caesar']]",521
+Vaginal,Vaginal births,"[['vaginal', 'vbac']]",195
