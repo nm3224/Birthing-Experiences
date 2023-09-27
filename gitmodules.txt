@@ -1,0 +1,3 @@
+[submodule "src/geolocating/smgeo"]
+	path = src/geolocating/smgeo
+	url = https://github.com/kharrigian/smgeo.git
