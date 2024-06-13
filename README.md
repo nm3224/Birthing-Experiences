@@ -1,11 +1,13 @@
 # Discovering Changes in Birthing Narratives during COVID-19
 
+We investigated whether, and if so how, birthing narratives written by new parents on Reddit changed during COVID-19 using natural language processing and unsupervised machine learning methods. Our results indicate that the presence of family members significantly decreased and themes related to induced labor significantly increased in the narratives during COVID-19. Our work builds upon recent research that analyze how new parents use Reddit to describe their birthing experiences.
+
 Set up and activate the conda environment by running the following lines:
 ```
 conda env create -f new_environment.yml
 conda activate new_environment
 ```
-### Structure of repo
+### Structure of Repo:
 
 - `data/` - all data is saved here. Our original Reddit data is saved in the `original-reddit/` folder.
 - `results/` - all results and figures are saved here. We have 4 results folders: `Corpus_Stats_Plots/`, `LIWC_Results/`, `Personas_Results/`, and `Topic_Modeling_Results/`. Information about these folders are contained in their readmes. 
